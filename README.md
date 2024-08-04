@@ -1,16 +1,14 @@
 ## Hola Mundo, me llamo *Emanuel*🤠
 
-<!--
-**Emanueltorales/EmanuelTorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Soy un estudiante que desea mejorar sus habilidades en la programación.😊
 
-Here are some ideas to get you started:
+- Tengo cierto desempeño en el uso de j5.js y Scrapch.🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dios es mi guiador🙌🙏❤
+
+
+![image](https://github.com/user-attachments/assets/42ea4bb0-6555-4535-99a6-35b84461166d)
+
+Me puedes contactar por aqui👇
+
+00001244959091sp@al.educacao.sp.gov.br
